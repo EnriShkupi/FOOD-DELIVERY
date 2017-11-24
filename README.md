@@ -3,11 +3,11 @@
 
 # ANETARET E GRUPIT:
 
- - Andi Shehu
+ - Andi Shehu ( _kryetar_ )
  - Ermal Hoxha
  - Enri Shkupi
  - Pamela Shemaj
- - Ejmi Çobo
+ - Eni Çobo
  - Rudian Gjozi
  
  
