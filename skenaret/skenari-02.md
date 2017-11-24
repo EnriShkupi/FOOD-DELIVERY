@@ -6,4 +6,5 @@ Klienti ben porosi nepermjet aplikacionit ne nje restorant sipas deshires, vendo
 3. Sherbimi taxi nuk ofrohet perkohesisht.
 4. Nuk ofrohet sherbim ne adresen e ofruar (bazuar ne distancen e restorantit me klientin)
 5. Arsye te tjera...
+
 Klienti njoftohet menjehere se porosia e tij nuk eshte pranuar dhe i sygjerohen restorante te tjera qe ofrojne ushqimin qe kerkon (bazuar ne porosine e tij).
