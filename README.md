@@ -21,47 +21,38 @@
 
 Aplikacioni Food-Delivery eshte nje sherbim qe do te ofrohet si risi fillimisht ne qytetin e Vlores dhe me pas do te shtrihet ne gjithe Shqiperine. Ky sherbim synon te permiresoje dhe thjeshtesoje menyren e porositjes se ushqimit nga shtepia. Ne aplikacion do te listohen te gjithe restorantet qe ofrojne sherbimin taxi dhe perdoruesit do te kene mundesine te porosisin ushqimin e preferuar. Sherbimi do te jete funksional 24 ore me larmi restorantesh dhe ushqimesh. Disa prej pyetjeve kryesore qe shtohen nga pamja e perdoruesit:
 
-- Si funksionon sherbimi dhe per cilat pajisje ofrohet?
-- Ne cfare orari ofrohet ky sherbim?
-- Sa vonohet dhe si do e marr porosine?
-- Cilat jane menyrat e pageses?
-- Çfare mund te bej ne rast se vonohet porosia?
+
+# _Si_ _funksionon_ _?_
+
+## Hapi 1: 
+
+Konsumatori kryen porosinë online. 
+## Hapi 2:
+
+Restoranti merr kërkesën.
+## Hapi 3:
+
+Restoranti pranon porosinë tuaj dhe e përgatit atë. 
+## Hapi 4:
+
+Porosia dërgohet nga restoranti për në vendndodhjen tuaj. 
+
+# _Përfitimet_ _për_ _klientët_ _janë_ _:_
+-Një shërbim në mënyrë të sigurt, të shpejtë dhe pa kosto të shtuar.
+-Shmangni thirrjet telefonike dhe linjat e zëna.
+-Pagesat realizohen me para në dorë  pas dorëzimit të porosisë pa pasur nevojë për kartë krediti dhe pagesa online.
+-Gjeni qindra mënyra gatimi me vetëm një klik.
+-Klientit i ofrohet një menu e personalizuar me kategoritë dhe opsionet specifike.
+-Shikoni menu të ndryshme me çmimet në kohë reale dhe porosisni drekën/darkën tuaj në më pak se 1 minutë.
+-Përfitoni ulje ekskluzive dhe promocione të bëra enkas për Ju.
+
+# _Përfitimet_ _për_ _Restorantin_ _janë_ _:_
+-Restoranti do të fitojë më shumë klient që porosisin nëpërmjet shërbimit taxi.
+-Mënyrë e mirë për të promovuar gatimet për klientët e interesuar.
+-Do kemi në dispozicion një bazë të re të klientëve që rregullisht përdorin platformën tonë.
+-Marrim informacion të vlefshëm lidhur me preferencat e klientëve.
+-Kërkesa merret në kohë reale pa humbur klientët për shkak të linjës së zënë.
+-Zhvillojmë vazhdimisht një teknologji inovative dhe të thjeshtë.
 
 
 
-# Si funksionon ?
-
-1 KERKO
-
- - Kërkoni restorantet ose fast-foodet që gatuajnë afër zonës suaj.
-
-2 ZGJIDH
-
- - Zgjidhni ushqimin tuaj të preferuar.
-
-3 SHIJOJE
-
- - Shijoni zgjedhjen tuaj të përgatitur me mjeshtëri.
-
-
-
-
-# Si funksionon sherbimi dhe per cilat pajisje ofrohet?
-
-Përdorimi është i thjeshtë për tu adoptuar nga të gjithë: mjafton të hysh në faqen elektronike ose përmes aplikacionit (i përshtatur në sistemin iOS & Android) dhe në sajë të lokalizimit (GPS), mund të bëni zgjedhjen tuaj të radhës duke shfletuar menutë dhe duke monitoruar statusin e dorëzimit të porosisë, lehtë nga tableti apo smartfoni juaj.
-
-# Në cfarë orari ofrohet ky shërbim ?
-
-Sherbimi do te jete funksional 24 ore ne dite por porosia juaj është në varësi të orarit që vendos restoranti dhe këtë informacion mund ta gjeni në brendesi te aplikacionit të përcaktuar për cdo restorant që zgjidhni.
-
-# Si mund të marr porosinë time ?
-
-Në një kohë mesatare prej 30 minutash mbas kryerjes së porosisë, ekipi i dorëzimit do të organizohet për të sjellë produktet aty ku ndodheni.
-
-# Çfare mund te bej ne rast se vonohet porosia ?
-
-Sherbimi yne do te jete gjithmone gati per tju dorezuar porosine brenda limitit te orarit te vendosur. Gjithsesi ne rast vonesash pertej ketij limiti ju do te kontaktoheni nga restoranti per vonesen dhe arsyen e saj.
-
-# Cilat janë mënyrat e pagesës ?
-
-Pagesa kryhet pas dorëzimit të porosisë në lekë (Cash) “pagesë në dorë”.
