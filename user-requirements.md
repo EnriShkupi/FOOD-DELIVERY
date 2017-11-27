@@ -1,7 +1,7 @@
 ## User Requirement
 1. Kerkohet qe perdoruesi te krijoje dhe verifikoje nje llogari (M).(funksionale)
-2. Perdoruesi duhet te plotesoje fushat: emri (M), nr. telefoni (M), adresa (M), detaje shtese rreth adreses (N), e-mail (M), fjalekalimi (M).(funksionale)
-3. Restoranti duhet te regjistrohet (M) duke plotesuar fushat: emri (M), adresa (M), nr kontakti i manaxherit (M), nr kontakti i restorantit (M), e-mail (M), fjalkalim (M).(funksionale)
+2. Perdoruesi duhet te plotesoje fushat: emri (M), nr. telefoni (M), adresa (M), detaje shtese rreth adreses (N), e-mail (M), fjalekalimi (M), Two step verification (N).(funksionale)
+3. Restoranti duhet te regjistrohet (M) duke plotesuar fushat: emri (M), adresa (M), nr kontakti i manaxherit (M), nr kontakti i restorantit (M), e-mail (M), fjalkalim (M), Two step verification (N).(funksionale)
 4. Perdoruesi ben nje porosi duke plotesuar fushat: adresa ku ndodhet (M), nr. kontakti (M), detaje rreth porosise (N),  le nje vleresim rreth gatimit/shpejtesise se sherbimit (N).(funksionale)
 5. Restoranti shton nje produkt/ushqim duke plotesuar fushat: emri i ushqimit (M), detaje rreth perberesve te ushqimit (M), cmimi (M), discount (N), koha e pergatitjes (M), oferta ditore (N).(funksionale)
 6. Pasi behet porosia klienti njoftohet per pranimin ose jo te porosise (M).(funksionale)
